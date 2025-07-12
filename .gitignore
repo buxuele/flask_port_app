@@ -1,6 +1,5 @@
 # 文件夹
 .idea/
-instance/
 __pycache__/
 port_venv/
 
@@ -14,8 +13,8 @@ static/uploads/
 *.pyc
 *.pyw
 *.bat
+*.txt
 
 start_repo.py
+cat_code.py
 gg.bat
-
-

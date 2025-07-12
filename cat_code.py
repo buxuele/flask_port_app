@@ -16,7 +16,7 @@ def list_and_print_files():
                      "过程记录.md", "README.md", "readme.md",
                      "gist_venv"]
     # 输出文件
-    output_file = "my_files3.txt"
+    output_file = "my_files2.txt"
 
     # 打开输出文件以写入结果
     with open(output_file, 'w', encoding='utf-8') as out_f:
