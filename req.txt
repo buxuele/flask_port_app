@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+chardet
+Flask-SQLAlchemy
+python-dotenv
+numpy
+tqdm
+imagehash
+requests

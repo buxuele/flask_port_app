@@ -1,0 +1,21 @@
+# 文件夹
+.idea/
+instance/
+__pycache__/
+port_venv/
+
+static/uploads/
+
+# 一些关键文件！！
+# *.json
+*.bak
+.env
+
+*.pyc
+*.pyw
+*.bat
+
+start_repo.py
+gg.bat
+
+

@@ -1,0 +1,62 @@
+/* --- 整体布局与外观 --- */
+body {
+    background-color: #fdfaf6;
+}
+.main-container {
+    width: 98%;
+    max-width: 1800px;
+}
+.project-card {
+    background-color: #f8f9fa; /* 稍微调亮背景色 */
+    border: 1px solid #dee2e6;   /* 边框变细一些 */
+    border-radius: 0.75rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 调整阴影使其更柔和 */
+    display: flex;
+    flex-direction: column;
+    transform: scale(1.05); /* 缩放比例调整为5%，更和谐 */
+    margin-bottom: 1rem; /* 增加底部外边距，确保垂直间距 */
+}
+
+.project-card:hover {
+    /* 移除悬停动画 */
+}
+
+/* --- 卡片内部元素 --- */
+.card-title {
+    font-weight: 600;
+}
+.card-body {
+    position: relative;
+}
+.card-actions-dropdown {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+.icon-placeholder {
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+.info-line {
+    display: flex;
+    align-items: center;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #495057;
+    margin-top: 0.5rem;
+}
+.info-line span {
+    word-break: break-all;
+    margin-right: 0.5rem;
+}
+.info-line .copy-btn {
+    margin-left: auto;
+}

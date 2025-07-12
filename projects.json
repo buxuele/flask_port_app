@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "name": "gist app 我的代码片段 ",
+    "description": "",
+    "url": "http://127.0.0.1:5070/",
+    "path": "D:\\fullStack\\flask_gist_app"
+  },
+  {
+    "id": 5,
+    "name": "file server 本地文件服务器",
+    "description": "",
+    "url": "http://127.0.0.1:5050/",
+    "path": "C:\\Users\\Administrator\\Code\\Django_Blog\\new-flask-file-server"
+  },
+  {
+    "id": 6,
+    "name": "utils 图片小工具",
+    "description": "",
+    "url": "http://127.0.0.1:5080/",
+    "path": "C:\\Users\\Administrator\\Work\\flask_utils"
+  },
+  {
+    "id": 7,
+    "name": "read zhihu 阅读知乎app",
+    "description": "",
+    "url": "http://127.0.0.1:5060/",
+    "path": "C:\\Users\\Administrator\\Work\\read_zhihu_app"
+  }
+]
