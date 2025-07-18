@@ -10,13 +10,14 @@ def list_and_print_files():
     # 要排除的文件和目录列表
     exclude_items = [".git", ".idea", "__pycache__",
                      ".gitignore", "venv", ".env",
-                     "port_venv", "total_json_data",
+                     "port_venv",
                      "gg.bat",
-                     "just_my_files.txt", "cat_code.py",
+                     "todo.md"
+                     "my_files.txt", "cat_code.py",
                      "过程记录.md", "README.md", "readme.md",
                      "gist_venv"]
     # 输出文件
-    output_file = "my_files2.txt"
+    output_file = "my_files.txt"
 
     # 打开输出文件以写入结果
     with open(output_file, 'w', encoding='utf-8') as out_f:

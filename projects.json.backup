@@ -4,21 +4,24 @@
     "name": "gist app 我的代码片段 ",
     "description": "",
     "url": "http://127.0.0.1:5070/",
-    "path": "D:\\fullStack\\flask_gist_app"
+    "path": "D:\\fullStack\\flask_gist_app",
+    "image": "/static/uploads/4_9a0bb795_shark.jpg"
   },
   {
     "id": 5,
     "name": "file server 本地文件服务器",
     "description": "",
     "url": "http://127.0.0.1:5050/",
-    "path": "C:\\Users\\Administrator\\Code\\Django_Blog\\new-flask-file-server"
+    "path": "C:\\Users\\Administrator\\Code\\Django_Blog\\new-flask-file-server",
+    "image": "/static/uploads/5_3fb644cb_SAAM-1967.59.931_1.jpg"
   },
   {
     "id": 6,
     "name": "utils 图片小工具",
     "description": "",
     "url": "http://127.0.0.1:5080/",
-    "path": "C:\\Users\\Administrator\\Work\\flask_utils"
+    "path": "C:\\Users\\Administrator\\Work\\flask_utils",
+    "image": "/static/uploads/6_8c9204cc_Kopiec_9.jpg"
   },
   {
     "id": 7,
@@ -26,5 +29,12 @@
     "description": "",
     "url": "http://127.0.0.1:5060/",
     "path": "C:\\Users\\Administrator\\Work\\read_zhihu_app"
+  },
+  {
+    "id": 8,
+    "name": "port app 端口管理",
+    "description": "即，此app",
+    "url": "http://127.0.0.1:9926/",
+    "path": "C:\\Users\\Administrator\\Work\\flask_port_app"
   }
 ]
